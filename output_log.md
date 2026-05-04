@@ -9,7 +9,6 @@
 
 ## Deployment Status
 
-> Replace the block below with your actual output after running:
 > ```bash
 > az deployment group show --resource-group OlamVMGroup --name arm-vm-deployment --query properties.outputs --output json
 > ```
