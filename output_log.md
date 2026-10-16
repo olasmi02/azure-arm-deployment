@@ -17,7 +17,7 @@
 {  
   "nicResourceId": {
     "type": "String",
-    "value": "/subscriptions/48a524af-aaa3-4ca6-b340-0ec493322ff4/resourceGroups/OlamVMGroup/providers/Microsoft.Network/networkInterfaces/ClemVM-nic"
+    "value": "/subscriptions/<subscription-id>/resourceGroups/OlamVMGroup/providers/Microsoft.Network/networkInterfaces/ClemVM-nic"
   },
   "publicIPAddress": {
     "type": "String",
@@ -33,7 +33,7 @@
   },
   "vmResourceId": {
     "type": "String",
-    "value": "/subscriptions/48a524af-aaa3-4ca6-b340-0ec493322ff4/resourceGroups/OlamVMGroup/providers/Microsoft.Compute/virtualMachines/ClemVM"
+    "value": "/subscriptions/<subscription-id>/resourceGroups/OlamVMGroup/providers/Microsoft.Compute/virtualMachines/ClemVM"
   }
 }
 ```
